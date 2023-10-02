@@ -11,7 +11,7 @@
 <br>
 
 - :office: &nbsp;Я работаю frontend-разработчиком в **[EkspA](https://ekspa.io/)**
-- :fire: &nbsp;Я разрабатываю для всех платформ, используя **[Typescript](https://www.typescriptlang.org/)**
+- :fire: &nbsp; Я разрабатываю для всех платформ, используя **[Typescript](https://www.typescriptlang.org/)**
 - :airplane: &nbsp;Готов пообщаться в **[Telegram](https://t.me/ff_ss)**
 
 <br>
