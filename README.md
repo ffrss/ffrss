@@ -1,7 +1,7 @@
 <a href="https://github.com/ffrss">
   <img src="https://github.com/ffrss/ffrss/assets/102175392/5591d23f-aee7-47d4-8211-bb16c4ca8211" alt="ffrss" align="center"/>
 </a>
-
+<img src="https://github.com/ffrss/ffrss/assets/102175392/5591d23f-aee7-47d4-8211-bb16c4ca8211" alt="ffrss" align="center"/><img src="https://github.com/ffrss/ffrss/assets/102175392/5591d23f-aee7-47d4-8211-bb16c4ca8211" alt="ffrss" align="center"/>
 <h1 align="left">:wave: Hello there! I'm Sultanov Radik</h1>
 
 <br>
